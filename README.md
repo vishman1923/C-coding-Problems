@@ -1,2 +1,2 @@
 # C-coding-Problems
-I have done some coding problems using C-language
+I have done some problems using C language
